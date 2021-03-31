@@ -17,17 +17,21 @@ Module 3 Project
 ## Summary
 
 The analysis of the eection show that:
+
     - There were 369,711 votes cast in the election.
     - The candidates were:
+       
           *  Charles Casper Stockham
-        *  Diana DeGette
-        *  Raymond Anthoy Doane
+          *  Diana DeGette
+          *  Raymond Anthoy Doane
     -The candiate results were:
-        *  Charles Casper Stockham received 23% of the vote and 85,213 number of votes.
-        * Diana DeGette received 73.8% of the vote and 272,892 number of votes
-        * Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
+    
+          *  Charles Casper Stockham received 23% of the vote and 85,213 number of votes.
+          * Diana DeGette received 73.8% of the vote and 272,892 number of votes
+          * Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
+          
     -The winner of the election was:
-        * Dianan DeGette, who received 73.8% of the vote and 272,892 number of votes.
+          * Dianan DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 ## Challenge Overview
    
