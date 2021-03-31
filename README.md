@@ -15,6 +15,7 @@ Module 3 Project
 - Software: Python 3.8.1 (tags/v3.8.1:1b293b6, Dec 18 2019, 23:11:46) [MSC v.1916 64 bit (AMD64)] on win32
 
 ### Summary
+![image]https://github.com/MikMickey/Election_Analysis/blob/main/Election%20Results.png
 
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
