@@ -14,10 +14,9 @@ Module 3 Project
     - Data Source: election_results.csv
     - Software: Python 3.8.1 (tags/v3.8.1:1b293b6, Dec 18 2019, 23:11:46) [MSC v.1916 64 bit (AMD64)] on win32
 
-## Summary
+### Summary
 
 The analysis of the eection show that:
-
     - There were 369,711 votes cast in the election.
     - The candidates were:
           - Charles Casper Stockham
