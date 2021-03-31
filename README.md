@@ -11,24 +11,24 @@ Module 3 Project
 5. Determine the winner of the election basedon popular vote.
 
 ## Resources
-    - Data Source: election_results.csv
-    - Software: Python 3.8.1 (tags/v3.8.1:1b293b6, Dec 18 2019, 23:11:46) [MSC v.1916 64 bit (AMD64)] on win32
+- Data Source: election_results.csv
+- Software: Python 3.8.1 (tags/v3.8.1:1b293b6, Dec 18 2019, 23:11:46) [MSC v.1916 64 bit (AMD64)] on win32
 
 ### Summary
 
-The analysis of the eection show that:
-    - There were 369,711 votes cast in the election.
-    - The candidates were:
-          - Charles Casper Stockham
-          - Diana DeGette
-          - Raymond Anthoy Doane
-    -The candiate results were:
-          - Charles Casper Stockham received 23% of the vote and 85,213 number of votes.
-          - Diana DeGette received 73.8% of the vote and 272,892 number of votes
-         - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
+The analysis of the election show that:
+- There were 369,711 votes cast in the election.
+- The candidates were:
+    - Charles Casper Stockham
+    - Diana DeGette
+    - Raymond Anthoy Doane
+- The candidate results were:
+    - Charles Casper Stockham received 23% of the vote and 85,213 number of votes.
+    - Diana DeGette received 73.8% of the vote and 272,892 number of votes
+    - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
           
-    -The winner of the election was:
-          - Dianan DeGette, who received 73.8% of the vote and 272,892 number of votes.
+- The winner of the election was:
+    - Dianan DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 ## Challenge Overview
    
