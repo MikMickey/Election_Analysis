@@ -2,7 +2,7 @@
 Module 3 Project
 
 ## Project Overview
- A Colorado Board of Elections employee has given you the following taks to complete the election audit of a recent local congretaional election.
+ A Colorado Board of Elections employee has given you the following task to complete the election audit of a recent local congretaional election.
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes.
@@ -15,7 +15,7 @@ Module 3 Project
 - Software: Python 3.8.1 (tags/v3.8.1:1b293b6, Dec 18 2019, 23:11:46) [MSC v.1916 64 bit (AMD64)] on win32
 
 ### Summary
-![image]https://github.com/MikMickey/Election_Analysis/blob/main/Election%20Results.png
+![Election Results](https://user-images.githubusercontent.com/80075982/113147581-c09d3a80-91e5-11eb-9f85-51f51b5cf181.png)
 
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
@@ -37,11 +37,9 @@ The analysis of the election show that:
 - The winner of the election was:
     - Dianan DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
-## Challenge Overview
-   
-## Challenge Summary
-    
-
+  
+## Election Audit Summary
+The project to create a script to produce report to certify the US congretioinal race was successful. The script was not strictly written for the congressional audit but can also be used for senatorial and local elections. Script can be modified to show data for district and cities. Resources or data to include districts for senatorial and cities for local elections. For the script, instead of counties; districts and cities will be evaluated and results will be the same the one completed for congressional race.
 
 
 
