@@ -18,6 +18,12 @@ Module 3 Project
 
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
+- The County Vote results were
+    - Jefferson has a total of 38,885 number of votes and  10.6% of the vote
+    - Denver has a total of 306,055 numver of votes and 8289 % of the vote
+    - Arapahoe has a total of 24,802 number of votese and 67% of the vote
+- The County wit largest number of votes
+    - Denver with 306,055 number of votes
 - The candidates were:
     - Charles Casper Stockham
     - Diana DeGette
